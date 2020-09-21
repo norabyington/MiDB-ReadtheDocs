@@ -2,7 +2,7 @@
 
 *  Write a short abstract for your project.  What does it do or solve, or what questions is it attempting to address?  What information is included in your documentation and how should others navigate this information?*
 
-## Project attributes and methods
+## DCAN Lab Specific Information
 
 *What reference information will make your project ready for scientific, public, or computational consumption? You don't have to reinvent the wheel...check out the resources and initiatives below.*
 
@@ -11,11 +11,11 @@
 
 ## Use and Contribute
 
-*Describe how others can use and contribute to your project.  Consider including links to:*
+*Before contributing to this page, please review the following:*
 
-- Tutorials and how to guides
-- An issues tracker
-- Source code
+- Each section has a [Standard Template](insertlink)
+- Review this [Flow Chart](insertlink) to decide the best section for new information
+
 
 ## License
 
