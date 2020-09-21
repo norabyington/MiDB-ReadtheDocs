@@ -9,6 +9,4 @@ docs_dir: docs
 
 pages:
 - About this project: index.md
-- Page One: 
-- Page Two: 
 - Contributors: contributors.md
