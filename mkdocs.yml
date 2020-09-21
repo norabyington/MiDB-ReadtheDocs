@@ -1,6 +1,14 @@
-site_name: MiDB readthedocs
-theme: readthedocs
+site_name: MiDB
+
+theme: material
+
+plugins:
+    - search
+    
 docs_dir: docs
+
 pages:
 - About this project: index.md
+- Page One: 
+- Page Two: 
 - Contributors: contributors.md
