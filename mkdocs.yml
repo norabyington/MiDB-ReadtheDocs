@@ -9,4 +9,5 @@ docs_dir: docs
 
 pages:
 - About this project: index.md
+- DCAN Lab at UMN: dcanlab.md
 - Contributors: contributors.md
