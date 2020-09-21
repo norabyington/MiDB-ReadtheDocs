@@ -1,4 +1,4 @@
-site_name: My first readthedocs
+site_name: MiDB readthedocs
 theme: readthedocs
 pages:
 - About this project: index.md
