@@ -7,7 +7,7 @@ plugins:
     
 docs_dir: docs
 
-pages:
+pages: index.md
 - Studies and Groups
     - ABCD: StudiesGroups/ABCD.md
     - Sub-Populations in ADHD & ASD: StudiesGroups/ADHD_ASD.md
