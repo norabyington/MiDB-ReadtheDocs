@@ -8,15 +8,15 @@ plugins:
 docs_dir: docs
 
 pages: index.md
-    - Studies and Groups:
+    - Studies and Groups
         - ABCD: StudiesGroups/ABCD.md
         - Sub-Populations in ADHD & ASD: StudiesGroups/ADHD_ASD.md
         - Infant Team: StudiesGroups/InfantTeam.md
         - NHP: StudiesGroups/NHP.md
         - Rodent Studies: StudiesGroups/Rodent.md
         - Movement Disorders: StudiesGroups/MovementDisorders.md
-    - Accessing Servers:
-        - Computational Resources:
+    - Accessing Servers
+        - Computational Resources
             - Exacloud:
                 - Registering for Access: AccessingServers/ComputationalResources/Exacloud/RegisteringAccess.md
                 - Gaining Access: AccessingServers/ComputationalResources/Exacloud/GainingAccess.md
@@ -26,8 +26,8 @@ pages: index.md
             - MSI:
                 - Registering for Access: AccessingServers/ComputationalResources/MSI/RegisteringAccess.md
                 - Gaining Access: AccessingServers/ComputationalResources/MSI/GainingAccess.md
-        - Data Transfers:
-            - DICOM Transfers:
+        - Data Transfers
+            - DICOM Transfers
                 - AIRC (OHSU): AccessingServers/DataTransfers/DICOMtransfers/AIRC.md
                 - CMRR (UMN): AccessingServers/DataTransfers/DICOMtransfers/CMRR.md
             - Within Institution: AccessingServers/DataTransfers/WithinInstitution.md
