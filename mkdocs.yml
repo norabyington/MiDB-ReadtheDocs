@@ -9,7 +9,7 @@ docs_dir: docs
 
 pages: 
     - Welcome: index.md
-    - Studies and :
+    - Studies and Groups:
         - ABCD: studies/abcd.md
         - Sub-Populations in ADHD & ASD: studies/adhd_asd.md
         - Infant Team: studies/infant.md
