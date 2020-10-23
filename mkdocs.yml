@@ -1,4 +1,4 @@
-site_name: MiDB readthedocs
+site_name: MIDB readthedocs
 
 theme: material
 
@@ -9,29 +9,29 @@ docs_dir: docs
 
 pages: 
     - Welcome: index.md
-    - Studies and Groups:
-        - ABCD: StudiesGroups/ABCD.md
-        - Sub-Populations in ADHD & ASD: StudiesGroups/ADHD_ASD.md
-        - Infant Team: StudiesGroups/InfantTeam.md
-        - NHP: StudiesGroups/NHP.md
-        - Rodent Studies: StudiesGroups/Rodent.md
-        - Movement Disorders: StudiesGroups/MovementDisorders.md
+    - Studies and :
+        - ABCD: studies/abcd.md
+        - Sub-Populations in ADHD & ASD: studies/adhd_asd.md
+        - Infant Team: studies/infant.md
+        - NHP: studies/nhp.md
+        - Rodent Studies: studies/rodent.md
+        - Movement Disorders: studies/mvmt.md
     - Accessing Servers:
         - Computational Resources:
             - Exacloud:
-                - Registering for Access: AccessingServers/ComputationalResources/Exacloud/RegisteringAccess.md
-                - Gaining Access: AccessingServers/ComputationalResources/Exacloud/GainingAccess.md
+                - Registering for Access: access/comp/exacloud/reg.md
+                - Gaining Access: access/comp/exacloud/gain.md
             - Rushmore:
-                - Registering for Access: AccessingServers/ComputationalResources/Rushmore/RegisteringAccess.md
-                - Gaining Access: AccessingServers/ComputationalResources/Rushmore/GainingAccess.md
+                - Registering for Access: access/comp/rushmore/reg.md
+                - Gaining Access: access/comp/rushmore/gain.md
             - MSI:
-                - Registering for Access: AccessingServers/ComputationalResources/MSI/RegisteringAccess.md
-                - Gaining Access: AccessingServers/ComputationalResources/MSI/GainingAccess.md
+                - Registering for Access: access/comp/msi/reg.md
+                - Gaining Access: access/comp/msi/gain.md
         - Data Transfers:
             - DICOM Transfers:
-                - AIRC (OHSU): AccessingServers/DataTransfers/DICOMtransfers/AIRC.md
-                - CMRR (UMN): AccessingServers/DataTransfers/DICOMtransfers/CMRR.md
-            - Within Institution: AccessingServers/DataTransfers/WithinInstitution.md
-            - Between Institutions: AccessingServers/DataTransfers/BetweenInstitutions.md
+                - AIRC (OHSU): access/data/dicom/airc.md
+                - CMRR (UMN): access/data/dicom/cmrr.md
+            - Within Institution: access/data/within.md
+            - Between Institutions: access/data/between.md
 
     - Contributors: contributors.md
