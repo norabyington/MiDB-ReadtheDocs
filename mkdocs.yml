@@ -33,5 +33,16 @@ pages:
                 - CMRR (UMN): access/data/dicom/cmrr.md
             - Within Institution: access/data/within.md
             - Between Institutions: access/data/between.md
+    - Coding Standards:
+        - Computing Environment Profile:
+            - Exacloud: code/compute/exacloud.md
+            - Rushmore: code/compute/rushmore.md
+            - MSI: code/compute/msi.md
+        - Folder Organizational Structure:
+            - Software: code/folderorg/software.md
+            - Projects: code/folderorg/projects.md
+            - Imaging Data: code/folderorg/data.md
+        - Permissions: code/permissions.md
+        - Reporting Errors: code/errors.md
 
     - Contributors: contributors.md
