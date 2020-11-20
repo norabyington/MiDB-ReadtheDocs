@@ -11,8 +11,10 @@ pages:
     - Welcome: index.md
     - Studies and Groups:
         - ABCD: studies/abcd.md
-        - Sub-Populations in ADHD & ASD: studies/adhd_asd.md
+        - Sub-Populations in ADHD & ASD (UMN): studies/adhd_asd.md
+        - ADHD & ASD (OHSU): 
         - Infant Team: studies/infant.md
+        - Adult Team: studies/adult.md
         - NHP: studies/nhp.md
         - Rodent Studies: studies/rodent.md
         - Movement Disorders: studies/mvmt.md
@@ -44,5 +46,107 @@ pages:
             - Imaging Data: code/folderorg/data.md
         - Permissions: code/permissions.md
         - Reporting Errors: code/errors.md
-
+    - Programming Languages:
+        - Bash: lang/bash.md
+        - Python: lang/python.md
+        - R: lang/r.md
+        - Matlab: lang/matlab.md
+    - Containers:
+        - Docker: contain/docker.md
+        - Singularity: contain/singularity.md
+    - Pipeline Pre-Processing:
+        - Locating DICOMs:
+            - AIRC (OHSU):
+            - CMRR (UMN):
+        - Moving DICOMs to Server:
+            - AIRC (OHSU):
+            - MSI (UMN):
+        - DICOMs to NIFTIs:
+        - QC-ing NIFTIs:
+        - Respiration Rate Settings:
+    - Manual Processing via DCAN Pipelines:
+        - ABCD: manualpro/abcd.md
+        - Infant Team: manualpro/infant.md
+        - NHP: manualpro/nhp.md
+        - Rodent: manualpro/rodent.md
+    - Cleaning Intermediate Files:
+        - Custom Clean: clean/custom.md
+        - Filemapper: clean/filemap.md
+    - DCAN Processing Tools:
+        - BIDS GUI: protool/bids.md
+        - DADS App: protool/dads.md
+    - Neuroimaging Software:
+        - FreeSurfer: software/freesurfer.md
+        - Freeview: software/freeview.md
+        - FSL: software/fsl.md
+        - Workbench: software/workbench.md
+        - SPM: software/spm.md
+    - DCAN Analysis Tools:
+        - Seed Map Parcellation Wrapper:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - PALM:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Template Matching:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Random Forest:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - F Conn Regression:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Cifti Conn Matrix:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Community Detection:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Marginal Model CIFTI:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Automated Subset Analysis:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - BWAS:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Poly Conn:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+    - DCAN Visualization Tools:
+        - Figure Maker:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - ShowM:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Plot Histogram:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+        - Skinny Plot:
+            - Code and SOP:
+            - Video Walkthrough:
+            - Release History:
+    - Utility Tools:
+        - Downloading from NDA: utility/nda.md
+        - Filemapper: utility/filemap.md
+        - GUI Environment: utility/gui.md
+        - Reference Bias Checker: utility/bias.md
+    - Linux:
     - Contributors: contributors.md
