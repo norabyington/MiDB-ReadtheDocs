@@ -56,14 +56,14 @@ nav:
         - Singularity: contain/singularity.md
     - Pipeline Pre-Processing:
         - Locating DICOMs:
-            - AIRC (OHSU):
-            - CMRR (UMN):
+            - AIRC (OHSU): pipeline/locate/airc.md
+            - CMRR (UMN): pipeline/locate/cmrr.md
         - Moving DICOMs to Server:
-            - AIRC (OHSU):
-            - MSI (UMN):
-        - DICOMs to NIFTIs:
-        - QC-ing NIFTIs:
-        - Respiration Rate Settings:
+            - AIRC (OHSU): pipeline/move/airc.md
+            - MSI (UMN): pipeline/move/msi.md
+        - DICOMs to NIFTIs: pipeline/dn.md
+        - QC-ing NIFTIs: pipeline/qc.md
+        - Respiration Rate Settings: pipeline/respir.md
     - Manual Processing via DCAN Pipelines:
         - ABCD: manualpro/abcd.md
         - Infant Team: manualpro/infant.md
@@ -83,66 +83,77 @@ nav:
         - SPM: software/spm.md
     - DCAN Analysis Tools:
         - Seed Map Parcellation Wrapper:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
-        - PALM:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
-        - Template Matching:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
-        - Random Forest:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
-        - F Conn Regression:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Overview: analysis/seed/intro.md
+            - Code and SOP: analysis/seed/code.md
+            - Video Walkthrough: analysis/seed/video.md
+            - Release History: analysis/seed/release.md
+        - PALM: 
+            - Overview: analysis/palm/intro.md
+            - Code and SOP: analysis/palm/code.md
+            - Video Walkthrough: analysis/palm/video.md
+            - Release History: analysis/palm/release.md
+        - Template Matching: 
+            - Overview: analysis/temp/intro.md
+            - Code and SOP: analysis/temp/code.md
+            - Video Walkthrough: analysis/temp/video.md
+            - Release History: analysis/temp/release.md
+        - Random Forest: 
+            - Overview: analysis/forest/intro.md
+            - Code and SOP: analysis/forest/code.md
+            - Video Walkthrough: analysis/forest/video.md
+            - Release History: analysis/forest/release.md
+        - F Conn Regression: 
+            - Overview: analysis/fconn/intro.md
+            - Code and SOP: analysis/fconn/code.md
+            - Video Walkthrough: analysis/fconn/video.md
+            - Release History: analysis/fconn/release.md
         - Cifti Conn Matrix:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Overview: analysis/cifti/intro.md
+            - Code and SOP: analysis/cifti/code.md
+            - Video Walkthrough: analysis/cifti/video.md
+            - Release History: analysis/cifti/release.md
         - Community Detection:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Overview: analysis/comm/intro.md
+            - Code and SOP: analysis/comm/code.md
+            - Video Walkthrough: analysis/comm/video.md
+            - Release History: analysis/comm/release.md
         - Marginal Model CIFTI:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Overview: analysis/marg/intro.md
+            - Code and SOP: analysis/marg/code.md
+            - Video Walkthrough: analysis/marg/video.md
+            - Release History: analysis/marg/release.md
         - Automated Subset Analysis:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Overview: analysis/auto/intro.md
+            - Code and SOP: analysis/auto/code.md
+            - Video Walkthrough: analysis/auto/video.md
+            - Release History: analysis/auto/release.md
         - BWAS:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Overview: analysis/bwas/intro.md
+            - Code and SOP: analysis/bwas/code.md
+            - Video Walkthrough: analysis/bwas/video.md
+            - Release History: analysis/bwas/release.md
         - Poly Conn:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Overview: analysis/poly/intro.md
+            - Code and SOP: analysis/poly/code.md
+            - Video Walkthrough: analysis/poly/video.md
+            - Release History: analysis/poly/release.md
     - DCAN Visualization Tools:
         - Figure Maker:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Code and SOP: visual/figure/code.md
+            - Video Walkthrough: visual/figure/video.md
+            - Release History: visual/figure/release.md
         - ShowM:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Code and SOP: visual/show/code.md
+            - Video Walkthrough: visual/show/video.md
+            - Release History: visual/show/release.md
         - Plot Histogram:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Code and SOP: visual/plot/code.md
+            - Video Walkthrough: visual/plot/video.md
+            - Release History: visual/plot/release.md
         - Skinny Plot:
-            - Code and SOP:
-            - Video Walkthrough:
-            - Release History:
+            - Code and SOP: visual/skin/code.md
+            - Video Walkthrough: visual/skin/video.md
+            - Release History: visual/skin/release.md
     - Utility Tools:
         - Downloading from NDA: utility/nda.md
         - Filemapper: utility/filemap.md
