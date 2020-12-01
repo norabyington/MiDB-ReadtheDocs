@@ -12,7 +12,7 @@ nav:
     - Studies and Groups:
         - ABCD: studies/abcd.md
         - Sub-Populations in ADHD & ASD (UMN): studies/adhd_asd.md
-        - ADHD & ASD (OHSU): 
+        - ADHD & ASD (OHSU): studies/adhd_asd_ohsu.md
         - Infant Team: studies/infant.md
         - Adult Team: studies/adult.md
         - NHP: studies/nhp.md
@@ -159,5 +159,5 @@ nav:
         - Filemapper: utility/filemap.md
         - GUI Environment: utility/gui.md
         - Reference Bias Checker: utility/bias.md
-    - Linux:
+    - Linux: linux.md
     - Contributors: contributors.md
