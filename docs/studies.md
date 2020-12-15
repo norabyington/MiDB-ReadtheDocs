@@ -2,7 +2,8 @@
 
 ## ABCD Study
 
-The Adolescent Brain Cognitive Development (ABCD) study is the largest longitudinal study of brain development and childhood health outcomes from participants recruited from the around the U.S.  The ambitious study aims to answer questions about sleep, attention, substance use, physical activity, and education.  To probe the biological/environmental determinants of health, researchers collected  a rich data set that includes brain imaging (T1, T2, DTI, and fMRI), health screening (BMI, vision, surveys), biospecimens (Oral fluids, DNA, hair, baby teeth), Mental health (KSAD), Cognition (NIH toolbox and other tasks), Substance use surveys, cultural surveys, and environmental surveys).  You can read more about the study here: https://abcdstudy.org/. In the DCAN lab, we use the large ABCD data set to build new neuroimaging processing, and analysis tools to answer questions about brain-behavior associations and their reliability, neural networks, and genetic influences.
+The Adolescent Brain Cognitive Development (ABCD) study is the largest longitudinal study of brain development and childhood health outcomes from participants recruited from the around the U.S.  The ambitious study aims to answer questions about sleep, attention, substance use, physical activity, and education.  To probe the biological/environmental determinants of health, researchers collected  a rich data set that includes brain imaging (T1, T2, DTI, and fMRI), health screening (BMI, vision, surveys), biospecimens (Oral fluids, DNA, hair, baby teeth), Mental health (KSAD), Cognition (NIH toolbox and other tasks), Substance use surveys, cultural surveys, and environmental surveys).  You can read more about the study here: <https://abcdstudy.org/>.
+In the DCAN lab, we use the large ABCD data set to build new neuroimaging processing, and analysis tools to answer questions about brain-behavior associations and their reliability, neural networks, and genetic influences.
 
 ## Subpopulations in ASD & ADHD Study (UMN)
 
@@ -28,4 +29,4 @@ The DCAN rodent team's work focuses on resting-state functional connectivity MRI
 
 ## Movement Disorders Team
 
-This is an active collaboration with the Balance Disorders Laboratory at OHSU. The focus of the group is to understand the association between changes in brain function and structure with motor and cognitive impairments in aging. 
+This is an active collaboration with the Balance Disorders Laboratory at OHSU. The focus of the group is to understand the association between changes in brain function and structure with motor and cognitive impairments in aging.
