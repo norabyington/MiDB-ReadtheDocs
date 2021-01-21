@@ -11,27 +11,14 @@ nav:
     - Welcome: index.md
     - Studies and Groups: studies.md
     - Accessing Servers:
-        - Computational Resources:
-            - Exacloud:
-                - Registering for Access: access/comp/exacloud/reg.md
-                - Gaining Access: access/comp/exacloud/gain.md
-            - Rushmore:
-                - Registering for Access: access/comp/rushmore/reg.md
-                - Gaining Access: access/comp/rushmore/gain.md
-            - MSI:
-                - Registering for Access: access/comp/msi/reg.md
-                - Gaining Access: access/comp/msi/gain.md
+        - Minnesota Supercomputing Institute (MSI): access/msi.md
         - Data Transfers:
-            - DICOM Transfers:
-                - AIRC (OHSU): access/data/dicom/airc.md
-                - CMRR (UMN): access/data/dicom/cmrr.md
+            - DICOM Transfers (CMRR-UMN): access/data/dicom/cmrr.md
             - Within Institution: access/data/within.md
             - Between Institutions: access/data/between.md
+        - Code and Data Location on MSI: access/location.md
     - Coding Standards:
-        - Computing Environment Profile:
-            - Exacloud: code/compute/exacloud.md
-            - Rushmore: code/compute/rushmore.md
-            - MSI: code/compute/msi.md
+        - MSI: code/msi.md
         - Folder Organizational Structure:
             - Software: code/folderorg/software.md
             - Projects: code/folderorg/projects.md
@@ -44,15 +31,10 @@ nav:
         - R: lang/r.md
         - Matlab: lang/matlab.md
     - Containers:
-        - Docker: contain/docker.md
         - Singularity: contain/singularity.md
     - Pipeline Pre-Processing:
-        - Locating DICOMs:
-            - AIRC (OHSU): pipeline/locate/airc.md
-            - CMRR (UMN): pipeline/locate/cmrr.md
-        - Moving DICOMs to Server:
-            - AIRC (OHSU): pipeline/move/airc.md
-            - MSI (UMN): pipeline/move/msi.md
+        - Locating DICOMs: pipeline/locate.md
+        - Moving DICOMs to Server: pipeline/move.md
         - DICOMs to NIFTIs: pipeline/dn.md
         - QC-ing NIFTIs: pipeline/qc.md
         - Respiration Rate Settings: pipeline/respir.md

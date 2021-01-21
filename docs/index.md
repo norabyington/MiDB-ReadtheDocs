@@ -1,6 +1,8 @@
 # Masonic Institute for the Developing Brain
 
-*  Write a short abstract for your project.  What does it do or solve, or what questions is it attempting to address?  What information is included in your documentation and how should others navigate this information?*
+* Welcome to the Read the Docs page for the Masonic Institute for the Developing Brain at the University of Minnesota. Here you will find data processing tools, analysis tools, neuroimaging software tutorials and more.
+
+* If you are looking for resources to assist with data/projects at Oregon Health & Sciences University (OHSU), please visit the [Fair Lab on GitLab](gitlab.com/groups/Fair_lab).
 
 
 ## Use and Contribute
