@@ -25,10 +25,17 @@ In order to request an MSI account as a non-UMN employee, a Person of Interest (
     You will then be prompted to enter your UMN password again.
 
     All jobs executed on the Mesabi node will terminate after 15 minutes. If your task requires more time, select one of the following options:  
+
   - *Compute Node*  
+
     - Executable:  
-    - Usage guidelines:  
+
+    - Usage guidelines:
+
   - *DCAN Node*  
+
     - Executable:  
+
     - Usage guidelines:  
+
         Note: The DCAN Node has restricted access. Please contact Nora       Byington (bying015@umn.edu) if a PI has instructed you to gain access.

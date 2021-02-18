@@ -17,7 +17,9 @@ The Oregon ADHD study is a longitudinal study of typically-developing children a
 
 The infant team has a number of projects investigating neonatal brain brain development.  In particular, the team looks at the association between maternal stress and how this might affect the offspring brain development.
 
-## Adult Team
+## Computing Team
+
+The computing team has a number of ongoing projects to develop and implement novel methods for application to the other projects. Among these, our current projects examine the use of derived MR data to develop polyneuro models of behavioral and clinical outcomes, and the use of hybrid learning approaches to identify neuro- or clinical-subtypes (Functional Random Forest). Such software is planned for integration with web-based platforms like the Data exploration and analysis portal (DEAP). We also develop new approaches to tackle data processing problems, such as the implementation of deep learning algorithms to improve image segmentation and derived metrics. Through collaborations with the MSI and other institutions (e.g. OHSU), we implement and refine data processing pipelines for the other listed studies.
 
 ## Non-Human Primate (NHP) Team
 

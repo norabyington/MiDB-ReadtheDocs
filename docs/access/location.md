@@ -137,26 +137,22 @@ Below is the current structure for shared data on each server:
     └── FezABCD  
         └── experiments  
 
-**/home/miran045/shared/data**
-├── abcd
-│   ├── BIDS
-│   ├── fconns
-│   ├── prep_ctype
-│   └── variance_files
-├── GUI_environments_training
-│   └── data
-└── macaque_2yo_anesthesia
-    └── BIDS
+**/home/miran045/shared/data**  
+├── abcd  
+│   ├── BIDS  
+│   ├── fconns  
+│   ├── prep_ctype  
+│   └── variance_files  
+├── GUI_environments_training  
+│   └── data  
+└── macaque_2yo_anesthesia  
+    └── BIDS  
 
-**/home/faird/shared/data/**
+**/home/faird/shared/data/**  
 └── BCP_QSIprep
 
 Our group has access to 480 TB of Second Tier Storage.  
-Requests to save data on primary or secondary storage must be submitted to DCAN leadership. Here are the links to move data across locations:  
-
-- Protocol to move data between a) High Performance Storage and b) Second Tier Storage.  
-- Protocol to move data between a) external institutions and b) High Performance Storage data.  
-- Protocol to move data between a) external institutions and b) Second Tier Storage.  
+Requests to save data on primary or secondary storage must be submitted to DCAN leadership. For more information on transferring data between storage locations, visit our data tranfer pages within this Read the Docs page.
 
 ## Projects
 
