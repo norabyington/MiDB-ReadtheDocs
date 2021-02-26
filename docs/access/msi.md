@@ -28,14 +28,15 @@ In order to request an MSI account as a non-UMN employee, a Person of Interest (
 
   - *Compute Node*  
 
-    - Executable:  
+    - Requesting resources:  srun -N 1 --ntasks-per-node=4  --mem-per-cpu=1gb -t 1:00:00 -p interactive --x11 --pty bash  
+    *update time and memory as needed*
 
-    - Usage guidelines:
+    - Usage guidelines: Use this for all jobs that don't meet the requirements of the DCAN node.
 
   - *DCAN Node*  
 
-    - Executable:  
+    - Requesting resources:  srun -N 1 --cpus-per-task=4 --mem-per-cpu=4gb -t 4:00:00 --x11 -p dcan --pty bash
 
-    - Usage guidelines:  
+    - Usage guidelines:  This node is reserved for high priority/high RAM/CPU power demands. Email the listserv before running a job.
 
         Note: The DCAN Node has restricted access. Please contact Nora       Byington (bying015@umn.edu) if a PI has instructed you to gain access.
