@@ -13,7 +13,7 @@ nav:
     - Accessing Servers:
         - Minnesota Supercomputing Institute (MSI): access/msi.md
         - Data Transfers:
-            - DICOM Transfers (CMRR-UMN): access/data/dicom/cmrr.md
+            - DICOM Transfers (CMRR-UMN): access/data/dicom.md
             - Within Institution: access/data/within.md
             - Between Institutions: access/data/between.md
         - Code and Data Location on MSI: access/location.md
@@ -25,11 +25,7 @@ nav:
             - Imaging Data: code/folderorg/data.md
         - Permissions: code/permissions.md
         - Reporting Errors: code/errors.md
-    - Programming Languages:
-        - Bash: lang/bash.md
-        - Python: lang/python.md
-        - R: lang/r.md
-        - Matlab: lang/matlab.md
+    - Programming Languages: lang.md 
     - Containers:
         - Singularity: contain/singularity.md
     - Pipeline Pre-Processing:
