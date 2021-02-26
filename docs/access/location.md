@@ -13,9 +13,11 @@ Current folder structure via tree command:
 ### /home/faird/shared/code/external/utilities/tree-1.8.0/tree -d -L 3 /home/faird/shared/code/
 
 /home/faird/shared/code/  
+
+```markdown
 ├── external  
-│        ├── analytics  
-│        │   └── abcd-heap-feat  
+│   ├── analytics  
+│   │   └── abcd-heap-feat  
 │   ├── GUIs  
 │   ├── pipelines  
 │   │   └── fmriprep-rodents-test  
@@ -23,8 +25,8 @@ Current folder structure via tree command:
 │   │   └── DEAP  
 │   ├── src  
 │   └── utilities  
-│           ├── distribute_readwrite_cifti  
-│           ├── mri_conv-master  
+│       ├── distribute_readwrite_cifti  
+│       ├── mri_conv-master  
 │       ├── nhp-brainextraction  
 │       ├── pandoc  
 │       ├── tree-1.8.0  
@@ -69,7 +71,7 @@ Current folder structure via tree command:
         ├── graph_metrics  
         ├── GUI_brain_connectivity  
         ├── GUI_environments  
-         ├── image_manipulation  
+        ├── image_manipulation  
         ├── MachineLearning_SVM  
         ├── Matlab_CIFTI  
         ├── MatlabCompiledRuntimes  
@@ -86,6 +88,7 @@ Current folder structure via tree command:
         ├── tables_handling  
         ├── test_release_connectotyping  
         └── text_manipulation  
+ ```
 
 Each repo must be kept under version control and has a developer responsible.  
 Stewardship is defined in the following table:  
@@ -111,7 +114,10 @@ DCAN’s storage can also be accessed from MSI using the following shortcuts:
 - **/home/rando149/shared/data**  
 
 Below is the current structure for shared data on each server:  
-**/home/feczk001/shared/data**  
+
+### /home/feczk001/shared/data
+
+```markdown
 ├── adhd_subs_transfer  
 │   ├── derivatives  
 │   │   ├── abcd-hcp-pipeline  
@@ -135,9 +141,12 @@ Below is the current structure for shared data on each server:
 └── manifests  
     ├── BCP  
     └── FezABCD  
-        └── experiments  
+    └── experiments  
+```
 
-**/home/miran045/shared/data**  
+### /home/miran045/shared/data
+
+```markdown
 ├── abcd  
 │   ├── BIDS  
 │   ├── fconns  
@@ -147,9 +156,13 @@ Below is the current structure for shared data on each server:
 │   └── data  
 └── macaque_2yo_anesthesia  
     └── BIDS  
+```
 
-**/home/faird/shared/data/**  
+### /home/faird/shared/data/
+
+```markdown  
 └── BCP_QSIprep
+```
 
 Our group has access to 480 TB of Second Tier Storage.  
 Requests to save data on primary or secondary storage must be submitted to DCAN leadership. For more information on transferring data between storage locations, visit our data tranfer pages within this Read the Docs page.

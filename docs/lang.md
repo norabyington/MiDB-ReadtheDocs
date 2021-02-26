@@ -1,4 +1,5 @@
 # Programming Languages
+
 Here you will find training resources for the most commonly used programming languages at MIDB.  
 
 ## Bash  
@@ -17,7 +18,6 @@ Beginner training modules can be found [here](https://r-bootcamp.netlify.app/).
 
 Open source textbook statistics with companion for R can be found [here](https://statsthinking21.org/).  
 
-
 ## Matlab
 
-Beginner training modules can be found [here](https://matlabacademy.mathworks.com/).
+Beginner training modules can be found [here](https://matlabacademy.mathworks.com/).  
